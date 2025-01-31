@@ -1,8 +1,8 @@
-<img align="centre" height="250px" width="800" src="https://nielseniq.com/wp-content/uploads/sites/4/2021/02/data-science-icon-animation-banner-clockwise-4.gif">
+<img align="centre" height="300px" width="1000" src="https://nielseniq.com/wp-content/uploads/sites/4/2021/02/data-science-icon-animation-banner-clockwise-4.gif">
 💫 About Me:
   Hi there, I'm Kathirvel! 👋 
   <br><br>🚀 <b>Electronics and Communication Engineering Student</b> | <b>IoT & Communication Enthusiast</b> | <b></b>IEEE ComSoc Executive Member</b>  <br><br>🔹 <b>Who am I?</b>  <br><b>I'm a 3rd-year ECE student at Velalar College of Engineering and Technology, passionate about Communication Engineering, IoT, and Embedded Systems.</b> 
-  <img align="right " alt="coding" width="300" src="https://www.simontechway.com/wp-content/uploads/2020/04/dev-gif.gif">
+  <img align="right" alt="coding" width="300" src="https://www.simontechway.com/wp-content/uploads/2020/04/dev-gif.gif">
   <b>I love working on wireless sensor networks, ESP32/ESP8266 projects,C and Java projects and data visualization with Power BI</b>.  <br><br>🔹 <b>What I'm Learning?</b>  <br>- 📡 <b>Communication Engineering</b> (Mobile Networks, 5G & Future Technologies)  <br>- ⚡ <b>IoT & Embedded Systems</b> (ESP32, NRF24L01, Arduino, Blynk, GSM modules)  <br>- 💻 <b>Programming</b> (C,Java,HTML,CSS)  <br>- 📊 <b>Power BI & Excel</b> for data analysis  <br><br>🔹 <b>Projects & Interests</b>  <br>- 🔥 <b>IoT-enabled Smart Classroom System</b>  <br>- 📡 <b>Emotion-Aware Attendance & Engagement Tracking</b>  <br>- 🏠 <b>Home Automation with ESP8266 & Blynk</b>  <br>- 📊 <b>Data Visualization in Power BI</b>  <br><br>🔹 <b>Achievements & Activities</b>  <br>- 🏆 <b>1st Place</b> in Paper Presentation  <br>- 🎤 <b>Debater</b> (Android vs iOS)  <br>- 🎓 Managing <b>NPTEL & Hackathons</b>  <br><br>💡 <b>I love collaborating on open-source IoT,communication-related projects and Coding projects!</b>  <br><br>📫 <b>Reach me at:</b>  <br><b>[GitHub](#Electro-starman) | [Email](#eshakathirvel@gmail.com)</b>
   
 # 💻 Tech Stack:
